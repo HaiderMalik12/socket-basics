@@ -1,0 +1,11 @@
+{
+  "name": "chatapp",
+  "version": "0.0.0",
+  "description": "Chat App by Andrew Mead",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
